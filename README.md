@@ -14,7 +14,7 @@ Clona el repositorio:
 git clone https://github.com/tuusuario/tu-repo.git
 
 Uso: 
-Al iniciar el codigo se pediran los numeros de letras, numeros y caracteres especiales para generar la contraseña, estos deben ingresarse como enteros (int).
+Al iniciar el codigo se pediran la cantidad de letras, números y caracteres especiales para generar la contraseña, estos deben ingresarse como enteros (int).
 
 ## **Requisitos**  
 - **Python 3.x**  
